@@ -1,6 +1,6 @@
 
 
-# WDI
+# wdi-cc2-funky-ducks
 
 ---
 Title: CSS Mockup <br>
